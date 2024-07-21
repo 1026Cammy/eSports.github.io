@@ -25,11 +25,11 @@
 <body>
     <div id="audio-container1">
     <audio id="myAudio" controls>
-        <source src="workspaces/eSport.github.io/thkin abt u MW.mp3" type="audio/mpeg">
+        <source src="thkin abt u MW.mp3" type="audio/mpeg">
       </audio>
     </div>
     <div id="audio-container">
-    <a href="workspaces/eSport.github.io/thkin abt u MW.mp3">Click to play the audio.</a>
+    <a href="thkin abt u MW.mp3">Click to play the audio.</a>
   </div>
   <div id="content-container1">
     <h1>Music playlist at happy weekend. Enjoy!</h1>
@@ -37,7 +37,7 @@
 
   <script>
 const audioElement = document.getElementById('myAudio');
-audioElement.src = 'workspaces/eSport.github.io/thkin abt u MW.mp3';
+audioElement.src = 'thkin abt u MW.mp3';
 
   
   </script>
