@@ -29,7 +29,7 @@
       </audio>
     </div>
     <div id="audio-container">
-    <a href="workspaces/eSport.github.io/thkin abt u MW.mp3.mp3">Click to play the audio.</a>
+    <a href="workspaces/eSport.github.io/thkin abt u MW.mp3">Click to play the audio.</a>
   </div>
   <div id="content-container1">
     <h1>Music playlist at happy weekend. Enjoy!</h1>
